@@ -2,15 +2,18 @@
 
 ### 准备
 
+* 一个虚空地图存档
 * 已配置完成 LiteLoader 的BDS服务器
-* 已安装最 LiteLoader，并正常使用
+* 已安装最新版 LiteLoader，并正常使用
 * 去 Minebbs 下载本插件
 
 ### 安装
 
 * 解压下载的 skyblock-xxx.zip 文件
 * 复制/覆盖所有文件到\plugins目录
+* 确保服务器地图为你准备的虚空存档
 * 开服
+* 根据自己的需求 , 修改config配置文件
 
 ### 日志输出
 

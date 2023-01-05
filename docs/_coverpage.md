@@ -1,4 +1,4 @@
-# BE-SkyBlock
+# TrendSky
 
 > 基于LiteLoader的空岛插件
 
